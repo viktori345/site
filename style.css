@@ -1,0 +1,13 @@
+body{background-color: rgb(200, 255, 255);}
+
+p{
+    color:blue;
+    font-size: 30px;
+}
+h1{
+    color: rgb(161, 123, 197);
+}
+img{
+    border: 4px dotted rgb(241, 139, 236);
+    height: 100px;
+}
